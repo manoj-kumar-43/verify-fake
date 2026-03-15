@@ -39,7 +39,7 @@ Machine Learning:
 - Logistic Regression / Naive Bayes
 
 Deployment:
-- Lovable AI App Builder
+- Vercel Cloud Platform
 
 ---
 
